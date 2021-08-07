@@ -1,16 +1,26 @@
 # dice_game
 
-A new Flutter project.
+# About the Game
 
-## Getting Started
+It is a simple game where the user taps on a number and clicks on a dice.
 
-This project is a starting point for a Flutter application.
+# How the game goes
 
-A few resources to get you started if this is your first Flutter project:
+First the user taps on a number and then clicks the die
+If both the tapped and die number are equal then the total score becomes the previous score + 2 times the tapped number.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+_This functionality is shown below_
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "/images/addScore.png" alt="add_score" height = 400>
+
+If die number and tapped number is not equal then totalscore decreases by 2. If the total score is zero or one then it becomes zero.
+
+If the user clicks the die before tapping the number then a warning box will pop up.
+
+<img src = "/images/alertBox.png" alt="add_score" height = 400>
+
+Then there is a reset button which sets the game to start from the beginning.
+
+<img src = "/images/resetGame.png" alt="add_score" height = 400>
+
+### IDEA INSPIRATION :  [Dice Game](https://www.youtube.com/watch?v=PsfXOYi-kYA)
