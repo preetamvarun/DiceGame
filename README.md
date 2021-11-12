@@ -49,4 +49,7 @@ $ flutter run
 [![Flutter](https://img.shields.io/badge/Flutter-v2.2.3-1.svg)](https://flutter.dev/)   
 [![Dart](https://img.shields.io/badge/Dart-v2.13.4-1.svg)](https://dart.dev/)   
 
+## Dependencies  :ballot_box:
+[![RFlutter Alert](https://img.shields.io/badge/RFlutter%20Alert-v2.0.4-1.svg)](https://pub.dev/packages/rflutter_alert)  
+
 ### IDEA INSPIRATION :  [Dice Game](https://www.youtube.com/watch?v=PsfXOYi-kYA)
