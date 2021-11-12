@@ -23,4 +23,30 @@ Then there is a reset button which sets the game to start from the beginning.
 
 <img src = "/images/resetGame.png" alt="add_score" height = 400>
 
+Installation 📀
+
+#### [ Setup Flutter](https://flutter.io/setup/)
+
+#### Clone the repo
+
+```sh
+$ git clone https://github.com/preetamvarun/Tic-Tac-Toe-App.git
+$ cd Tic-Tac-Toe-App/
+```
+
+#### Install dependencies 
+```sh
+$ flutter pub get
+```
+
+#### Run app
+```sh
+$ flutter run
+```
+
+## Technologies Used ✳️
+
+[![Flutter](https://img.shields.io/badge/Flutter-v2.2.3-1.svg)](https://flutter.dev/)   
+[![Dart](https://img.shields.io/badge/Dart-v2.13.4-1.svg)](https://dart.dev/)   
+
 ### IDEA INSPIRATION :  [Dice Game](https://www.youtube.com/watch?v=PsfXOYi-kYA)
