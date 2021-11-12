@@ -52,4 +52,10 @@ $ flutter run
 ## Dependencies  :ballot_box:
 [![RFlutter Alert](https://img.shields.io/badge/RFlutter%20Alert-v2.0.4-1.svg)](https://pub.dev/packages/rflutter_alert)  
 
+## Contact Me 📞
+
+- Gmail: [preetamvarun](mailto:preetamvarun99@gmail.com) 📧
+- Github: [preetamvarun](https://github.com/preetamvarun) 
+
+
 ### IDEA INSPIRATION :  [Dice Game](https://www.youtube.com/watch?v=PsfXOYi-kYA)
