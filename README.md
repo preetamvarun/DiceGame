@@ -23,7 +23,7 @@ Then there is a reset button which sets the game to start from the beginning.
 
 <img src = "/images/resetGame.png" alt="add_score" height = 400>
 
-Installation 📀
+## Installation 📀
 
 #### [ Setup Flutter](https://flutter.io/setup/)
 
